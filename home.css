@@ -36,9 +36,15 @@ footer {
   background-color: #1f7a1f;
   color: white;
   border-radius: 8px;
+  position: absolute;
+  bottom: 0;
+  width: 99%;
 }
 
 .footer-container {
     display: flex;
     justify-content: space-around;
     margin: 0 auto;
+}
+
+

@@ -22,6 +22,7 @@ a:link, a:visited {
   text-align: center;
   text-decoration: none;
   display: inline-block;
+  border-radius: 8px;
 }
 
 a:hover, a:active {
